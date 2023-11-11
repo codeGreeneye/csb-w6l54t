@@ -1,0 +1,15 @@
+alert("love for animals");
+console.log("don't forget to feed your street animals");
+console.log("also give some water to them");
+console.log("and give some love too");
+console.error("animals are harmless");
+console.error("they are great friends");
+console.warn("don't you dare to hurt them");
+console.warn("don't harm them");
+console.warn("don't beat them");
+let myFriend = "cats";
+let myFriend2 = "dogs";
+let myFriend3 = "pandas";
+console.log(myFriend, myFriend2, myFriend3);
+let age = 3;
+console.log(age);
